@@ -2,7 +2,7 @@
 
 This repository contains beginner Python programs created while learning Python fundamentals.
 
-The programs focus on basic programming concepts such as:
+The programs focus on basic programming concepts such as:  
 
 * Variables and data types
 * Conditional statements
